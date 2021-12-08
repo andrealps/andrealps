@@ -6,12 +6,14 @@
 
 <h1 align="center">💖✨🌸 Andrea 💖✨🌸</h1>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrealps&show_icons=true&theme=omni&include_all_commits=true&count_private=true%22" width="355"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrealps&layout=compact&theme=omni" alt="andrealps top languages" width="300"/>
-</a>
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=andrealps&show_icons=true&theme=omni&include_all_commits=true&count_private=true%22">
+    <img src="https://github-readme-stats.vercel.app/api?username=andrealps&show_icons=true&theme=omni&include_all_commits=true&count_private=true%22" width="355"/>
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=andrealps&layout=compact&theme=omni">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrealps&layout=compact&theme=omni" alt="andrealps top languages" width="300"/>
+  </a>
+</p>
 
 <!--
 **andrealps/andrealps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
