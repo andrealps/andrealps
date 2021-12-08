@@ -4,11 +4,11 @@
   </a>
 </p>
 
-<h1 align="center">💖✨🌸 Andrea 💖✨🌸</h1>
+<h1 align="center">💖✨🌸 Andrea 🌸✨💖</h1>
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=andrealps&show_icons=true&theme=omni&include_all_commits=true&count_private=true%22">
-    <img src="https://github-readme-stats.vercel.app/api?username=andrealps&show_icons=true&theme=omni&include_all_commits=true&count_private=true%22" width="355"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=andrealps&show_icons=true&theme=omni&include_all_commits=true&count_private=true%22" width="357"/>
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=andrealps&layout=compact&theme=omni">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrealps&layout=compact&theme=omni" alt="andrealps top languages" width="300"/>
