@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">💖✨🌸 Andrea 🌸✨💖</h1>
+<h1 align="center">💖✨🌸 Andrea la cerda 🌸✨💖</h1>
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=andrealps&show_icons=true&theme=omni&include_all_commits=true&count_private=true%22">
